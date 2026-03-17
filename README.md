@@ -36,59 +36,25 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Aprendendo
 
 <div align="center">
 
 **Low-level & Systems Programming**
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,lua)
+![Skills](https://skillicons.dev/icons?i=html,css)
 
-</div>
-
-> Studying how software works under the hood: memory manipulation, internal and external scripting, and low-level techniques used in reverse engineering and game hacking.
-
-
----
-
-## 🛠️ Stack & Skills
-
-<div align="center">
-
-**Programming**
-<br/>
-![Skills](https://skillicons.dev/icons?i=js,php)
-
-**Frontend**
-<br/>
-![Skills](https://skillicons.dev/icons?i=react,bootstrap,css,ts)
-
-**Backend & Database**
-<br/>
-![Skills](https://skillicons.dev/icons?i=nodejs,laravel,mysql,postgres)
-
-<div align="center">
-
-**Tools**
-<br/>
-
-<div align="center">
-  <img src="./Git.svg" width="48" title="Git" />
-  <img src="./Visual Studio Code (VS Code).svg" width="48" title="VS Code" />
-  <img src="./NPM.svg" width="48" title="NPM" />
-  <img src="./Composer.svg" width="48" title="Composer" />
-  <img src="./Postman.svg" width="48" title="Postman" />
-  <img src="./Insomnia.svg" width="48" title="Insomnia" />
 </div>
 
 </div>
 
-**Reverse Engineering Tools**
+## 🚀 Quero aprender
+
 <div align="center">
-<img src="https://github.com/idapython/src/blob/master/idapython.png" width="48" title="IDA Pro" />
-<img src="https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/images/GHIDRA_1.png" width="48" title="Ghidra" />
-<img src="https://github.com/cheat-engine/cheat-engine/blob/master/Cheat%20Engine/images/celogo.png" width="48" title="Cheat Engine" />
-<img src="https://raw.githubusercontent.com/x64dbg/x64dbg/development/src/bug.png" width="48" title="x64dbg" />
+
+![Skills](https://skillicons.dev/icons?i=php,js,py)
+
+</div>
 
 </div>
 
