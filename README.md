@@ -40,8 +40,6 @@
 
 <div align="center">
 
-**Low-level & Systems Programming**
-
 ![Skills](https://skillicons.dev/icons?i=html,css)
 
 </div>
