@@ -8,18 +8,6 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luizeh&show_icons=true&count_private=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luizeh&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-
-</picture>
-
-<picture>
-  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeh&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
