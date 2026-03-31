@@ -3,25 +3,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=luizeh&style=flat-square&color=blueviolet)](https://github.com/luizeh)
 
 </div>
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeh&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeh&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="41%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeh&layout=compact"
-    alt="Top Languages" />
-</picture>
-
-</div>
-
 ---
 
 ## 📚 Aprendendo
