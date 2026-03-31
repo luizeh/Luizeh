@@ -3,7 +3,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=luizeh&style=flat-square&color=blueviolet)](https://github.com/luizeh)
 
 </div>
----
 
 ## 📚 Aprendendo
 
