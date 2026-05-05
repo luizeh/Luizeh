@@ -30,25 +30,17 @@
 
 </div>
 
-
-
-
 <!-- LINKS PRINCIPAIS -->
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-a8c9dd?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=a8c9dd)](https://luizeh.github.io/portifolio-oficial)
 &nbsp;
 [![Contato](https://img.shields.io/badge/✉️_CONTATO-d9ecf6?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=d9ecf6)](mailto:luisricardosoares34@gmail.com)
+
 </div>
-
-
-
 
 <!-- DIVISOR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a2a35,a8c9dd&height=2&section=header" width="100%"/>
-
-
-
 
 <!-- SOBRE MIM -->
 <div align="center">
@@ -59,21 +51,15 @@
 
 ```yaml
 # ── LUIZEH.config ──────────────────────────────────────
-  nome        : Luís Ricardo Soares
-  localização : brasil 🇧🇷
-  aprendendo  : Javascript
-  hobby       : Analisar álbuns musicais 🎵
+nome: Luís Ricardo Soares
+localização: brasil 🇧🇷
+aprendendo: Javascript
+hobby: Analisar álbuns musicais 🎵
 # ───────────────────────────────────────────────────────
 ```
 
-
-
-
 <!-- DIVISOR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0,a8c9dd,1a2a35&height=2&section=header" width="100%"/>
-
-
-
 
 <!-- TECNOLOGIAS -->
 <div align="center">
@@ -86,18 +72,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1a2a35?style=for-the-badge&logo=css3&logoColor=a8c9dd)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a2a35?style=for-the-badge&logo=javascript&logoColor=a8c9dd)
 
-
-
-
 **— Ferramentas —**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6b8fa3?style=for-the-badge&logo=bootstrap&logoColor=d9ecf6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-6b8fa3?style=for-the-badge&logo=tailwindcss&logoColor=d9ecf6)
 ![VS Code](https://img.shields.io/badge/VS_Code-6b8fa3?style=for-the-badge&logo=visualstudiocode&logoColor=d9ecf6)
 ![GIMP](https://img.shields.io/badge/GIMP-6b8fa3?style=for-the-badge&logo=gimp&logoColor=d9ecf6)
-
-
-
 
 **— Pretendo Aprender —**
 
@@ -110,9 +90,6 @@
 
 </div>
 
-
-
-
 <!-- DIVISOR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a2a35,a8c9dd&height=2&section=header" width="100%"/>
 
@@ -120,8 +97,12 @@
 
 <div align="center">
 
+# `ESTATÍSTICAS`
+
+<img src="https://github-profile-trophy.vercel.app/?username=luizeh&theme=radical&no-frame=true&no-bg=true&column=8"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizeh&bg_color=1a2a3a&color=ffffff&line=a8c9dd&point=c9d1d9&area=true&hide_border=false&border_color=30363d&custom_title=Contribuições" width="1000"/>
+
 </div>
 
 <!-- FOOTER SVG ANIMADO -->
