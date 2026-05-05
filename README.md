@@ -2,13 +2,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a2a35,6b8fa3,a8c9dd,d9ecf6&height=220&section=header&text=LUIZEH&fontSize=90&fontColor=d9ecf6&fontAlignY=45&animation=fadeIn&desc=dev%20iniciante%20%E2%80%A2%20gazin%20tech%20%E2%80%A2%20Douradina%20PR&descSize=16&descAlignY=72&descAlign=50&fontStyle=bold" width="100%"/>
+</div>
 
-</div>
-<div align="center">
-<pre>
-█░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░
-</pre>
-</div>
+<img src="https://komarev.com/ghpvc/?username=luizeh&color=21262d&style=for-the-badge&label=visitas"/>
+
+---
+
 <div align="center">
 
 <table>
@@ -20,11 +19,7 @@
 </table>
 </div>
 
-<div align="center">
-<pre>
-█░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░
-</pre>
-</div>
+---
 
 <!-- TYPEWRITER -->
 <div align="center">
@@ -42,12 +37,6 @@
 [![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-a8c9dd?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=a8c9dd)](https://luizeh.github.io/portifolio-oficial)
 &nbsp;
 [![Contato](https://img.shields.io/badge/✉️_CONTATO-d9ecf6?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=d9ecf6)](mailto:luisricardosoares34@gmail.com)
-
-
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luizeh.luizeh&left_color=1a2a35&right_color=6b8fa3&left_text=visitors)
-
 </div>
 
 
@@ -191,9 +180,6 @@
   <text x="20" y="166" fill="#6b8fa3" font-family="Courier New, monospace" font-size="12">📚  estudando</text>
   <text x="200" y="166" fill="#d9ecf6" font-family="Courier New, monospace" font-size="12">JavaScript</text>
 </svg>
-
-
-
 
 
 <!-- CARD: CONTRIBUIÇÕES / STREAK MANUAL -->
