@@ -107,7 +107,6 @@
 ![Python](https://img.shields.io/badge/Python-253545?style=for-the-badge&logo=python&logoColor=a8c9dd)
 ![React](https://img.shields.io/badge/React-253545?style=for-the-badge&logo=react&logoColor=a8c9dd)
 ![Laravel](https://img.shields.io/badge/Laravel-253545?style=for-the-badge&logo=laravel&logoColor=a8c9dd)
-![MySQL](https://img.shields.io/badge/MySQL-253545?style=for-the-badge&logo=mysql&logoColor=a8c9dd)
 
 </div>
 
