@@ -1,7 +1,7 @@
 <!-- HEADER SVG ANIMADO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,50:6b8fa3,100:a8c9dd&height=250&section=header&text=LUIZEH&fontSize=60&fontColor=d9ecf6&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=dev%20iniciante%20%C2%B7%20gazin%20tech%20%C2%B7%20Douradina%20PR&descAlignY=60&descSize=16&descAlign=center" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,50:6b8fa3,100:a8c9dd&height=250&section=header&text=LUIZEH&fontSize=60&fontColor=d9ecf6&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=Dev%20iniciante%20%C2%B7%20Gazin%20tech&descAlignY=60&descSize=16&descAlign=center" width="100%"/>
 </div>
 
 <div align="center">
@@ -59,7 +59,7 @@
 
 ```yaml
 # ── LUIZEH.config ──────────────────────────────────────
-  nome        : Luizeh
+  nome        : Luís Ricardo Soares
   localização : brasil 🇧🇷
   aprendendo  : Javascript
   hobby       : Analisar álbuns musicais 🎵
