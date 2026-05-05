@@ -4,9 +4,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a2a35,6b8fa3,a8c9dd,d9ecf6&height=220&section=header&text=LUIZEH&fontSize=90&fontColor=d9ecf6&fontAlignY=45&animation=fadeIn&desc=dev%20iniciante%20%E2%80%A2%20gazin%20tech%20%E2%80%A2%20Douradina%20PR&descSize=16&descAlignY=72&descAlign=50&fontStyle=bold" width="100%"/>
 
 </div>
-
 <div align="center">
-<img src="" height="400px" width="100%"/>  
+<pre>
+█░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░
+</pre>
+</div>
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="igor.jpg" width="250" height="250"/></td>
+    <td><img src="tyler.jpg" width="250" height="250"/></td>
+    <td><img src="cherry.jpg" width="250" height="250"/></td>
+  </tr>
+</table>
+
+</div>
+<pre>
+█░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ █░░░
+</pre>
 </div>
 
 <!-- TYPEWRITER -->
