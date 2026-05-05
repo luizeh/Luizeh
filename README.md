@@ -35,7 +35,7 @@
 
 [![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-a8c9dd?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=a8c9dd)](https://luizeh.github.io/portifolio-oficial)
 &nbsp;
-[![Contato](https://img.shields.io/badge/✉️_CONTATO-d9ecf6?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=d9ecf6)](mailto:luisricardosoares34@gmail.com)
+[![Contato](https://img.shields.io/badge/✉️_CONTATO-d9ecf6?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=d9ecf6)](https://mail.google.com/mail/?view=cm&fs=1&to=luisricardosoares34@gmail.com)
 
 </div>
 
@@ -76,7 +76,7 @@ hobby: Analisar álbuns musicais 🎵
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6b8fa3?style=for-the-badge&logo=bootstrap&logoColor=d9ecf6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-6b8fa3?style=for-the-badge&logo=tailwindcss&logoColor=d9ecf6)
-![VS Code](https://img.shields.io/badge/VS_Code-6b8fa3?style=for-the-badge&logo=visualstudiocode&logoColor=d9ecf6)
+![VS Code](https://img.shields.io/badge/VS%20Code-6b8fa3?style=for-the-badge)
 ![GIMP](https://img.shields.io/badge/GIMP-6b8fa3?style=for-the-badge&logo=gimp&logoColor=d9ecf6)
 
 **— Pretendo Aprender —**
